@@ -20,3 +20,7 @@
 ## Использованные библиотеки
 - Список тропов собран с помощью [tropescraper](https://github.com/raiben/tropescraper)
 - Идентификаторы IMDB получены с помощью поиска через [IMDbPY](https://imdbpy.github.io/)
+
+## Использованные данные
+- [MovieLens](https://grouplens.org/datasets/movielens/)
+- IMDB Datasets(https://www.imdb.com/interfaces/)
