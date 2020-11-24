@@ -1,6 +1,6 @@
 # TvTropesMovieData
 
-(Итоговый файл с данными)[https://raw.githubusercontent.com/slowwavesleep/TvTropesMovieData/main/data/tropes_movie_data_final.csv]
+[Итоговый файл с данными](https://raw.githubusercontent.com/slowwavesleep/TvTropesMovieData/main/data/tropes_movie_data_final.csv)
 - `movie_title` — название фильма на tvtropes.org (из url)
 - `tropes` — список тропов данного фильма в виде строки (элементы разделены символом `|`)
 - `movielens_id` — идентификатор фильма в датасете movielens
