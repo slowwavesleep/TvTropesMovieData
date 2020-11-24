@@ -25,4 +25,4 @@
 
 ## Использованные данные
 - [MovieLens](https://grouplens.org/datasets/movielens/)
-- IMDB Datasets(https://www.imdb.com/interfaces/)
+- [IMDB Datasets](https://www.imdb.com/interfaces/)
