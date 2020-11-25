@@ -23,6 +23,7 @@
 - Список тропов собран с помощью [tropescraper](https://github.com/raiben/tropescraper)
 - Идентификаторы IMDB получены с помощью поиска через [IMDbPY](https://imdbpy.github.io/)
 
-## Использованные данные
+## Источники данных
+- [TV Tropes](https://tvtropes.org/)
 - [MovieLens](https://grouplens.org/datasets/movielens/)
 - [IMDB Datasets](https://www.imdb.com/interfaces/)
