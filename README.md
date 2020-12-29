@@ -1,6 +1,6 @@
 # TvTropesMovieData
 
-[Итоговый файл с данными](https://raw.githubusercontent.com/slowwavesleep/TvTropesMovieData/main/data/tropes_movie_data_final.csv)
+[Итоговый файл с данными](https://raw.githubusercontent.com/slowwavesleep/TvTropesMovieData/main/data/tropes_movie_data.csv)
 
 ## Описание данных
 
@@ -10,11 +10,13 @@
 - `imdb_genres` — список жанров фильма на IMDB в виде строки 
 - `movielens_id` — идентификатор фильма в датасете Movielens
 - `tmdb_id` — идентификатор фильма на The Movie Database
-- `movielens_title` — название фильма в датасете movielens
+- `movielens_title` — название фильма в датасете Movielens
 - `movielens_genres` — список жанров фильма в датасете Movielens в виде строки (элементы разделены символом `|`)
 - `movielens_year` — год выхода фильма, извлечённый из названия в датасете Movielens
 
 Разделитель столбцов: `,`.
+
+
 
 ## Пропуски в данных
 Не все идентификаторы IMDB существуют в датасете Movielens. В этих случаях `movielens_id` имеет значение `99999999`.
