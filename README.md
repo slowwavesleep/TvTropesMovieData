@@ -32,6 +32,7 @@
 
 Файл с данными можно скачать по 
 [ссылке](https://raw.githubusercontent.com/slowwavesleep/TvTropesMovieData/main/data/tropes_movie_data.csv).
+Пример работы с данными доступен [здесь](https://github.com/slowwavesleep/TvTropesMovieData/blob/main/examples/basic_example.ipynb).
 
 
 ## Детальное описание данных
